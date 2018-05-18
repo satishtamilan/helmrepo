@@ -1,10 +1,17 @@
 apiVersion: v1
 entries:
   sample-app:
-  - created: 2018-05-18T11:41:04.902735327+05:30
+  - created: 2018-05-18T11:49:57.124289706+05:30
     digest: 76c884818687cfa142dea727411202faefb9264be177bf66e227eba3917a24f4
     name: sample-app
     urls:
     - sample-app-1.0.0.tgz
     version: 1.0.0
-generated: 2018-05-18T11:41:04.9020138+05:30
+  sample-app-green:
+  - created: 2018-05-18T11:49:57.124373385+05:30
+    digest: 6056a90f4d33ce3ce0936b18484d58a2eb2d895f6b94dc61e5a4aff3dbab69b7
+    name: sample-app-green
+    urls:
+    - sample-app-green-1.0.0.tgz
+    version: 1.0.0
+generated: 2018-05-18T11:49:57.124105888+05:30
